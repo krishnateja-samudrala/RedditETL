@@ -1,0 +1,5 @@
+compitetion/
+config/
+*.env
+logs/
+.qodo
